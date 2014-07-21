@@ -1,0 +1,19 @@
+Buse Elena-Cristina 321CA
+	
+	
+	Nu m-am folosit prea mult de $ sau ., ci de paranteze pentru ca am scris in viteza
+si mi s-a parut mai natural asa. Din punctul acesta de vedere implementarea nu este uniforma
+si probabil va fi greu de citit/inteles. De asemenea, unele functii puteau fi abordate altfel.
+De exemplu, collapse a tratat "de mana" toate cazurile posibile, dar pe moment nu mi-a venit
+ideea sa fac alta implementare mai eleganta.
+	Am descoperit foarte multe functii utile, care fac aproape orice. Daca ma gandeam 
+la functii care in limbajele imperative nu sunt preimplementate, in Haskell se gaseau imediat.
+Spre exemplu, returnarea indicilor unui anumit element dintr-o lista sau intercalarea unui 
+string intr-o lista de string-uri, etc.
+	Am intampinat ceva dificultati la generarea unor numere aleatoare, era mai frumos 
+acest aspect in Racket.
+	Codul este bine comentat, iar ca idee de implementare nu am facut nimic deosebit,
+ci doar m-am lasat condusa de functiile care trebuiau implementate din schelet.
+	Mi-ar fi placut sa ajung sa joc 2048 si sa-l castig inainte sa-l implementez!
+	
+	In concluzie, mi-a placut tema. Good job!
